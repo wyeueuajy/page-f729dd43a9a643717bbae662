@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.ptinoig.cn/sitemap.xml
